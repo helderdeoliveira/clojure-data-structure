@@ -1,0 +1,3 @@
+hello
+(refresh)
+(load-file "src/clojure_data_structure/core.clj")
